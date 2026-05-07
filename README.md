@@ -1,5 +1,6 @@
 # Functional Time and Recoverability Window
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20074058.svg)](https://doi.org/10.5281/zenodo.20074058)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A minimal computational framework for studying operational accessibility, recoverability collapse, and finite-time dynamical constraints.
