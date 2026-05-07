@@ -1,10 +1,18 @@
 # Functional Time and Recoverability Window
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A minimal computational framework for studying operational accessibility, recoverability collapse, and finite-time dynamical constraints.
 
 This repository contains the complete simulations, figures, parameter sweeps, and manuscript associated with the exploratory ERC (Endogenous Reachability Collapse) framework.
 
+<p align="center">
+  <img src="figures/figSum.png" width="950">
+</p>
 
+<p align="center">
+<i>A minimal operational framework for recoverability-limited dynamical systems.</i>
+</p>
 
 ---
 
@@ -82,6 +90,14 @@ If this work contributes to your research, please cite the repository and associ
 
 ---
 
+
+## License
+
+This project is released under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
+
+---
 ## Author
 
 Jaime Ojeda  
