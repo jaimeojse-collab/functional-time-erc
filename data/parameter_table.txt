@@ -1,0 +1,12 @@
+
+Parameter table
+
+AUC = 1.0
+T_MAX = 80
+DT = 0.05
+T_WINDOW = 50
+RECOVERY_THRESHOLD = 0.05
+PERTURBATION_CENTER = 10
+
+sigma range = 0.5 to 12.0
+tau_r range = 1.0 to 25.0
